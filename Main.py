@@ -7,5 +7,5 @@ timer_seconds = dic.all
 
 app = function.TimerApp(root, timer_seconds)
 root.mainloop()
-
+print("sari Levi")
 
